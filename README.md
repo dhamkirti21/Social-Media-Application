@@ -24,7 +24,7 @@ Sociopedia is a social media application built with the MERN (MongoDB, Express.j
 Follow these instructions to get the project up and running on your local machine for development and testing purposes.
 
 1. Clone the repository:
-<code>git clone https://github.com/your-username/project-name.git</code>
+<code>git clone https://github.com/dhamkirti21/Social-Media-Application.git</code>
 
 2. Install the dependencies:
 <code>cd folder-name</code>
@@ -38,9 +38,28 @@ Follow these instructions to get the project up and running on your local machin
 <code>client - npm run dev</code>
 <code>server - nodemon index.js</code>
 
-
+5. Run the Server commented Code Once to Populate Database
+  ![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/f2505769-df40-4a98-8818-181109710821)
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
+
+## ScreenShot 
+
+1. Login Page
+![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/77751374-bb3c-4c40-b585-553977a3cd38)
+
+2.Register Page
+![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/940536cf-3b37-4fd7-8dd6-4993dd44b8cf)
+
+3.Home Page 
+![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/aed6dd6f-d329-4ec6-b289-a1c39aa321c5)
+
+4.Profile Page
+![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/f9ade35a-e467-43a9-874b-f5856c8cb88e)
+
+5.NavBar 
+![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/e5c74558-6385-44f0-90b9-3faa377c14e7)
+
 
 ## Contributing
 
