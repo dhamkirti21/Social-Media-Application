@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 For any inquiries or feedback, please contact Dhamkirti Sisodia.
-<button mailto:your-dksisodia002@gmail.com > Click Here Email Us</button>
+<a mailto:your-dksisodia002@gmail.com > Click Here Email Us</a>
 
 
