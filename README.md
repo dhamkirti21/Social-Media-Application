@@ -27,20 +27,17 @@ Follow these instructions to get the project up and running on your local machin
 <code>git clone https://github.com/your-username/project-name.git</code>
 
 2. Install the dependencies:
-<code>
-cd folder-name
-npm install
-</code>
+<code>cd folder-name</code>
+<code>npm install</code>
 
 3. Set up the environment variables:
 - Create a `.env` file in the root directory.
 - Specify the required environment variables (e.g., database connection string, JWT secret, etc.).
 
 4. Start the development server:
-<code>
-client - npm run dev
-server - nodemon index.js
-</code>
+<code>client - npm run dev</code>
+<code>server - nodemon index.js</code>
+
 
 
 5. Open your browser and visit `http://localhost:3000` to see the application.
@@ -55,6 +52,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Contact
 
-For any inquiries or feedback, please contact Dhamkirti Sisodia(mailto:your-dksisodia002@gmail.com).
+For any inquiries or feedback, please contact Dhamkirti Sisodia.
+<button mailto:your-dksisodia002@gmail.com > Click Here Email Us</button>
 
 
