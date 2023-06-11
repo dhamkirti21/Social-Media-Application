@@ -60,6 +60,8 @@ Follow these instructions to get the project up and running on your local machin
 5.NavBar 
 ![image](https://github.com/dhamkirti21/Social-Media-Application/assets/78336507/e5c74558-6385-44f0-90b9-3faa377c14e7)
 
+## Deployed Link: 
+https://radiant-gnome-9b7202.netlify.app/
 
 ## Contributing
 
